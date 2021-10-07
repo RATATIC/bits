@@ -21,4 +21,8 @@ void task_8 (int n, FILE* fp);
 
 void task_9 (int n, FILE* fp);
 
-void task_10 (int n, FILE* fp);
+void task_10 (int n, int i1, int i2, FILE* fp);
+
+void task_11 (int n, int i, FILE* fp);
+
+void print_bits (int n);
